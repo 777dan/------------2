@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: lightgreen;
+}
+
+.buttons {
+    display: block;
+    /* text-align: center;    */
+    margin-right: auto;
+    margin-left: auto;
+    color: white;
+    background-color: green;
+    width: 600px;
+    font-size: 60px;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    padding: 5px;
+}
+
+#button1 {
+    margin-top: 100px;
+}
+
+#head {
+    text-align: center;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    color: darkgreen;
+    margin-top: 200px;
+    font-size: 100px;
+    text-shadow: 10px 5px 5px rgb(5, 129, 46);
+}
